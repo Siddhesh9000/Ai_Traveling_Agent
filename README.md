@@ -4,8 +4,8 @@ Welcome to the **Ai_traveling_Agent App** built with **Next.js**!
 
 Demo Here: [Ai_traveling_Agent](https://ai-traveling-agent.vercel.app/)
 
-![image](![image](https://github.com/user-attachments/assets/593b1e61-8746-4fb9-a836-1ea230898f8c)
-)
+![Alt Text](https://github.com/user-attachments/assets/593b1e61-8746-4fb9-a836-1ea230898f8c)
+
 
 
 Plan your trips by selecting location details and get a personalized itinerary and restaurant recommendations powered by the Gemini API. 🌏✈️
