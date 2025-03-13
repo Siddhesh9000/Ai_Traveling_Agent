@@ -42,7 +42,7 @@ npm install
 
 3️⃣ Set up environment variables:
 
-Create a .env.local file in the root of the project and add your Gemini API Key:
+Create a .env file in the root of the project and add your Gemini API Key:
 
 NEXT_PUBLIC_API_KEY=your-api-key-here
 
